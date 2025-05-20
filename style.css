@@ -1,3 +1,7 @@
+.landbot-widget {
+  display: none !important;
+}
+
 :root {
   --primary-color: #00e5ff;
   --secondary-color: #bf00ff;
@@ -394,3 +398,5 @@ html {
     height: 70px;
   }
 }
+
+
